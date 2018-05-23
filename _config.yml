@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/PunamA/2018-25-06-UF-DataCarp-test"
-workshop_site   : "https://PunamA.github.io/2018-25-06-UF-DataCarp-test/"
+workshop_repo   : "https://github.com/PunamA/2018-25-06-uf-dc"
+workshop_site   : "https://PunamA.github.io/2018-25-06-uf-dc/"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
